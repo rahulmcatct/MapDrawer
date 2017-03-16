@@ -1,2 +1,2 @@
 # MapDrawer
-Sample app for iOS map app drawer list with two stop animation
+A sample application to imitate the drawer in Maps for iOS 10.
